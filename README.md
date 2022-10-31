@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ben Linn</h1>
+
 - 🔭 I’m currently working at **T.L.Linn & Co**
 
 - 🌱 I’m currently learning and developing **Coding at Practicum School**
