@@ -2,11 +2,11 @@
 
 - 🔭 I’m currently working at **T.L.Linn & Co**
 
-- 🌱 I’m currently learning and developing **Coding at Practicum School**
+- 🌱 HTML/CSS/Developer Front-End Engineer **Coding at Practicum School**
 
 - 👨‍💻 All of my projects are available at [https://github.com/blinn26](https://github.com/blinn26)
 
-- 📫 How to reach me **createdbybenlinn@gmail.com**
+- 📫 How to reach me **createdbybenlinn@gmail.com** Website https://createdbybenlinn@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
