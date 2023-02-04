@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/blinn26](https://github.com/blinn26)
 
-- 📫 How to reach me **createdbybenlinn@gmail.com** Website https://createdbybenlinn@gmail.com
+- 📫 How to reach me **createdbybenlinn@gmail.com** Website https://createdbybenlinn.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
