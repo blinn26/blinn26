@@ -4,9 +4,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=blinn26&label=Profile%20views&color=0e75b6&style=flat" alt="blinn26" /> </p>
 
-//<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blinn26" alt="blinn26" /></a> </p>
-
-
 <table align="center" style="border: none !important; border-collapse: collapse;">
   <tr>
     <td align="center" style="text-align:center; border: none;">
