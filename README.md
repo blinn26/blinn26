@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm BEN LINN</h1>
-<h3 align="center">I am a Full-Stack Engineer Developer</h3>
+<h3 align="center">I am a Full-Stack Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blinn26&label=Profile%20views&color=0e75b6&style=flat" alt="blinn26" /> </p>
 
