@@ -2,22 +2,23 @@
 
 <h3 align="center">I am a Full-Stack Software Engineer</h3>
 
-
 <table align="center">
-    <tr>
-        <td align="center" style="text-align:center">
-
-- 🔭 I’m currently working on [https://github.com/blinn26](https://github.com/blinn26)
-- 🌱 I’m currently focusing more on **Backend and Server** learning
-- 👯 I’m looking to collaborate on **Social Media**
-- 🤝 I’m looking for help with **Networking**
-- 👨‍💻 All of my projects are available at [https://createdbybenlinn.com](https://createdbybenlinn.com)
-- 📫 How to reach me **createdbybenlinn@gmail.com**
-- 📄 Know about my experiences [https://regular-iris-625.notion.site/Resumes-9e160c9eaf5e4652901a40f867c395b4](https://regular-iris-625.notion.site/Resumes-9e160c9eaf5e4652901a40f867c395b4)
-
-        </td>
-    </tr>
+  <tr>
+    <td align="center" style="text-align:center">
+      <ul>
+        <li>🔭 I’m currently working on <a href="https://github.com/blinn26">https://github.com/blinn26</a></li>
+        <li>🌱 I’m currently focusing more on <strong>Backend and Server</strong> learning</li>
+        <li>👯 I’m looking to collaborate on <strong>Social Media</strong></li>
+        <li>🤝 I’m looking for help with <strong>Networking</strong></li>
+        <li>👨‍💻 All of my projects are available at <a href="https://createdbybenlinn.com">https://createdbybenlinn.com</a></li>
+        <li>📫 How to reach me <strong>createdbybenlinn@gmail.com</strong></li>
+        <li>📄 Know about my experiences <a href="https://regular-iris-625.notion.site/Resumes-9e160c9eaf5e4652901a40f867c395b4">https://regular-iris-625.notion.site/Resumes-9e160c9eaf5e4652901a40f867c395b4</a></li>
+        <li>⚡ Fun fact: I have two beautiful children and wife!!!</li>
+      </ul>
+    </td>
+  </tr>
 </table>
+
 
 
 
