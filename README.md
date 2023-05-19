@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm BEN LINN</h1>
 <h3 align="center">I am a Full-Stack Software Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=blinn26&label=Profile%20views&color=0e75b6&style=flat" alt="blinn26" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=blinn26&label=Profile%20views&color=0e75b6&style=flat" alt="blinn26" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blinn26" alt="blinn26" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blinn26" alt="blinn26" /></a> </p>
 
 - 🔭 I’m currently working on [https://github.com/blinn26](https://github.com/blinn26)
 
@@ -41,7 +41,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=blinn26&show_icons=true&locale=en&layout=compact" alt="blinn26" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=blinn26&show_icons=true&locale=en&layout=compact" alt="blinn26" /></p>
 
 
 
