@@ -2,6 +2,7 @@
 
 <h3 align="center">I am a Full-Stack Software Engineer</h3>
 
+
 <table align="center">
     <tr>
         <td align="center" style="text-align:center">
@@ -13,11 +14,11 @@
 - 👨‍💻 All of my projects are available at [https://createdbybenlinn.com](https://createdbybenlinn.com)
 - 📫 How to reach me **createdbybenlinn@gmail.com**
 - 📄 Know about my experiences [https://regular-iris-625.notion.site/Resumes-9e160c9eaf5e4652901a40f867c395b4](https://regular-iris-625.notion.site/Resumes-9e160c9eaf5e4652901a40f867c395b4)
- - ⚡ Fun fact **I have two beautiful children and wife!!!**
 
         </td>
     </tr>
 </table>
+
 
 
 <h3 align="center">Connect with me:</h3>
