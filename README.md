@@ -2,23 +2,21 @@
 
 <h3 align="center">I am a Full-Stack Software Engineer</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=blinn26&label=Profile%20views&color=0e75b6&style=flat" alt="blinn26" /> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blinn26" alt="blinn26" /></a> </p>
+<table align="center">
+    <tr>
+        <td align="center" style="text-align:center">
 
 - 🔭 I’m currently working on [https://github.com/blinn26](https://github.com/blinn26)
-
 - 🌱 I’m currently focusing more on **Backend and Server** learning
-
 - 👯 I’m looking to collaborate on **Social Media**
-
 - 🤝 I’m looking for help with **Networking**
-
 - 👨‍💻 All of my projects are available at [https://createdbybenlinn.com](https://createdbybenlinn.com)
-
 - 📫 How to reach me **createdbybenlinn@gmail.com**
-
 - 📄 Know about my experiences [https://regular-iris-625.notion.site/Resumes-9e160c9eaf5e4652901a40f867c395b4](https://regular-iris-625.notion.site/Resumes-9e160c9eaf5e4652901a40f867c395b4)
+
+        </td>
+    </tr>
+</table>
 
 
 - ⚡ Fun fact **I have two beautiful children and wife!!!**
