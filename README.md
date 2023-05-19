@@ -2,9 +2,9 @@
 
 <h3 align="center">I am a Full-Stack Software Engineer</h3>
 
-<table align="center">
+<table align="center" style="border: none !important; border-collapse: collapse;">
   <tr>
-    <td align="center" style="text-align:center">
+    <td align="center" style="text-align:center; border: none;">
       <ul>
         <li>🔭 I’m currently working on <a href="https://github.com/blinn26">https://github.com/blinn26</a></li>
         <li>🌱 I’m currently focusing more on <strong>Backend and Server</strong> learning</li>
@@ -18,6 +18,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
