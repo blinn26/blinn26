@@ -4,6 +4,10 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=blinn26&label=Profile%20views&color=0e75b6&style=flat" alt="blinn26" /> </p>
 
+<p align="center">
+  <img src="https://createdbybenlinn.com/Original-on-Transparent.png" alt="Header Image" />
+</p>
+
 <table align="center" style="border: none !important; border-collapse: collapse;">
   <tr>
     <td align="center" style="text-align:center; border: none;">
