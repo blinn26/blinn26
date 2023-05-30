@@ -42,9 +42,9 @@
 </p>
 
 ---
-### :fire: My Stats 
+  <h3 align="center">### :fire: My Stats </h3>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=blinn26&theme=ocean-gradient&hide_border=true&border_radius=5)](https://git.io/streak-stats)
+<h3 align="center">[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=blinn26&theme=ocean-gradient&hide_border=true&border_radius=5)](https://git.io/streak-stats)</h3>
 ___
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=blinn26&show_icons=true&locale=en&layout=compact" alt="blinn26" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=blinn26&show_icons=true&locale=en" alt="blinn26" /></p>
