@@ -1,4 +1,4 @@
 
 
 
-https://github-readme-streak-stats.herokuapp.com/blinn26
+https://github-readme-streak-stats.herokuapp.com/?=blinn26
