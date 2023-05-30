@@ -1,4 +1,3 @@
----
 <h1 align="center">Hi 👋, I'm BEN LINN</h1>
 
 <h3 align="center">I am a Full-Stack Software Engineer</h3>
