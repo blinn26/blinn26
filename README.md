@@ -44,7 +44,12 @@
 ---
   <h3 align="center">### :fire: My Stats </h3>
 
+<div align="center">
+    
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=blinn26&theme=ocean-gradient&hide_border=true&border_radius=5)](https://git.io/streak-stats)
+
+</div>
+
 ___
 
 
