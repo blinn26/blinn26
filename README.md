@@ -1,4 +1,4 @@
-<div style="text-align:center;">
+<div style="display: flex; flex-direction: column; align-items: center; width: 100%;">
 
 <h1>Hi 👋, I'm BEN LINN</h1>
 <h3>I am a Full-Stack Software Engineer</h3>
@@ -6,7 +6,7 @@
 <p><img src="https://komarev.com/ghpvc/?username=blinn26&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views counter" /></p>
 <p><img src="https://createdbybenlinn.com/Original-on-Transparent.png" alt="A representation of Ben Linn" /></p>
 
-<ul style="list-style-type: none; padding-left: 0;">
+<ul style="list-style-type: none; padding-left: 0; text-align: center;">
     <li>🔭 I’m currently working on <a href="https://github.com/blinn26">https://github.com/blinn26</a></li>
     <li>🌱 I’m currently focusing more on <strong>Backend and Server</strong> learning</li>
     <li>👯 I’m looking to collaborate on <strong>Social Media</strong></li>
@@ -18,6 +18,7 @@
 </ul>
 
 </div>
+
 
 
 ---
