@@ -16,7 +16,7 @@
         <li>🌱 I’m currently focusing more on <strong>Backend and Server</strong> learning</li>
         <li>👯 I’m looking to collaborate on <strong>Social Media</strong></li>
         <li>🤝 I’m looking for help with <strong>Networking</strong></li>
-        <li>👨‍💻 All of my projects are available at <a href="https://www.benlinn.com/">https://www.benlinn.com/</a></li>
+        <li>👨‍💻 All of my projects are available at <a href="https://createdbybenlinn.com/">https://createdbybenlinn.com/</a></li>
         <li>📫 How to reach me: <a href="mailto:ben@benlinn.com"><strong>ben@benlinn.com</strong></a></li>
 <li><a href="https://drive.google.com/file/d/1bJmAaRxcq2CNFj8EjWZ9aV_Re1iklObK/view?usp=sharing">📄 Resume</a></li>
 <li>⚡ Fun fact: I have two beautiful children and wife!!!</li>
