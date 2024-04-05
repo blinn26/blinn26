@@ -18,7 +18,7 @@
         <li>🤝 I’m looking for help with <strong>Networking</strong></li>
         <li>👨‍💻 All of my projects are available at <a href="https://createdbybenlinn.com/">https://createdbybenlinn.com/</a></li>
         <li>📫 How to reach me: <a href="mailto:ben@benlinn.com"><strong>ben@benlinn.com</strong></a></li>
-<li><a href="https://docs.google.com/document/d/1roR5GCMoormuBaklOS6Qh5KlRXQxEpQM-435Y28yeAc/edit?usp=sharing">📄 Resume</a></li>
+<li><a href="https://docs.google.com/document/d/1oG-uuikjS75FVnJ589YlGfnLHG84sQ4ihf-6o0WVOf0/edit?usp=sharing">📄 Resume</a></li>
 <li>⚡ Fun fact: I have two beautiful children and wife!!!</li>
       </ul>
     </td>
