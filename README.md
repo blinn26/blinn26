@@ -13,12 +13,12 @@
     <td align="center" style="text-align:center; border: none;">
       <ul>
         <li>🔭 I’m currently working on <a href="https://github.com/blinn26">https://github.com/blinn26</a></li>
-        <li>🌱 I’m currently focusing more on <strong>Backend and Server</strong> learning</li>
+        <li>🌱 I’m currently focusing more on <strong>Data Security & Web Design</strong> learning</li>
         <li>👯 I’m looking to collaborate on <strong>Social Media</strong></li>
         <li>🤝 I’m looking for help with <strong>Networking</strong></li>
         <li>👨‍💻 All of my projects are available at <a href="https://createdbybenlinn.com/">https://createdbybenlinn.com/</a></li>
         <li>📫 How to reach me: <a href="mailto:ben@benlinn.com"><strong>ben@benlinn.com</strong></a></li>
-<li><a href="https://docs.google.com/document/d/1oG-uuikjS75FVnJ589YlGfnLHG84sQ4ihf-6o0WVOf0/edit?usp=sharing">📄 Resume</a></li>
+<li><a href="https://docs.google.com/document/d/1dvFi7maiDwSuYGThMxHQySK9uOtjGWL7C-RXRTNWEhg/edit?usp=sharing">📄 Resume</a></li>
 <li>⚡ Fun fact: I have two beautiful children and wife!!!</li>
       </ul>
     </td>
