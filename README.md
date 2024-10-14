@@ -19,7 +19,7 @@
         <li>👨‍💻 All of my projects are available at <a href="https://createdbybenlinn.com/">https://createdbybenlinn.com/</a></li>
         <li>📫 How to reach me: <a href="mailto:ben@benlinn.com"><strong>ben@benlinn.com</strong></a></li>
 <li><a href="https://drive.google.com/file/d/1s_1jdGfbAepysthZA3MD4EmTSMXf24Z_/view?usp=sharing">📄 Resume</a></li>
-        <li><a href="https://benlinn.com">📄 My Portfolio</li>
+        <li><a href="https://allaboutbenjamin.w3spaces.com/index.html">📄 My Portfolio</li>
         <li><a href="https://blinn26.github.io/my-projects/">📄 Porfolio Live Code<li>
 <li>⚡ Fun fact: I have two beautiful children and wife!!!</li>
       </ul>
